@@ -1,0 +1,17 @@
+.pagination__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

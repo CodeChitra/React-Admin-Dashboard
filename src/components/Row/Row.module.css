@@ -1,0 +1,14 @@
+.row {
+  display: grid;
+  grid-template-columns: 1fr 2fr 3fr 1fr 2fr;
+  border-bottom: 1px solid grey;
+  height: 10%;
+  justify-items: center;
+  align-items: center;
+  gap: 5px;
+  /* background-color: rgb(216, 212, 212); */
+}
+
+.row--selected {
+  background-color: rgb(216, 212, 212);
+}

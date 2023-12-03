@@ -1,0 +1,11 @@
+.edit-column {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  text-align: center;
+}
+
+.edit-column::placeholder {
+  font-size: 12px;
+}

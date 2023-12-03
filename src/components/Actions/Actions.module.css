@@ -1,0 +1,7 @@
+.actions {
+  display: flex;
+  gap: 5px;
+  border: none;
+  justify-content: center;
+  align-items: center;
+}
